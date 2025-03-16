@@ -1,4 +1,4 @@
-# telly
+# telly App Using Path 
 
 A new Flutter application.
 [![JavaScript_HTML_CSS_flutter_Mysql_Mongodb_Php](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_flutter_Mysql_Mongodb_Php)](https://pimp-my-readme.webapp.io)
